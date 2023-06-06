@@ -47,11 +47,6 @@ namespace WorkerSalary.Entities
             }
             return sum;
         }
-
-
-
-
-
     }
 
 }
